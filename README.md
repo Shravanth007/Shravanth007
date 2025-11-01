@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravanth</h1>
-<h3 align="center">I am a passionate coder</h3>
+<h3 align="center">Build</h3>
 <p align="center">
   <img alt="Coding" width="600" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105">
 </p>
