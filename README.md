@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/v_shravanth2004" target="blank"><img src="https://img.shields.io/twitter/follow/v_shravanth2004?logo=twitter&style=for-the-badge" alt="v_shravanth2004" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://portifolio-coral-iota.vercel.app/main.html)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.shravanth.dev/)
   
 - 📫 How to reach me **vshravanth2004@gmail.com**
 
